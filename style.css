@@ -1,0 +1,31 @@
+.colors {
+  display: block;
+  width: 100%;
+  text-align: center;
+}
+.colors div {
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  transition: ease all .5s;
+}
+.colors div .white{
+  color: white;
+  font-size: 20px;
+  line-height: 30px;
+}
+.colors .red {
+  background-color: red;
+}
+.colors .purple {
+  background-color: purple;
+}
+.colors .blue {
+  background-color: blue;
+}
+.colors .green {
+  background-color: green;
+}
+.colors .grey {
+  background-color: grey;
+}
